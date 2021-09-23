@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"H2,H1";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+2;",,,,,,,,";"buzzardLabel";9;"";;;
+3;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+4;"G***,G***,G***";"Logo-Front-easyC-5mm";3;"LOGO";;;
+5;"G***";"Logo-Front-Soldered-5mm";1;"LOGO";;;
+6;"K2,K1";"HEADER_MALE_2X1";2;"HEADER_MALE_2X1";;;
+7;"K6";"HEADER_MALE_4X1";1;"HEADER_MALE_4X1";;;
+8;"REF**";"Logo-Back-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+9;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+10;"K7,K4,K5";"easyC-connector";3;"easyC-SMD";;;
+11;"K3";"HEADER_MALE_3X2";1;"HEADER_MALE_3X2";;;
+12;"REF**";"Version1.1.1.";1;"Version1.1.1.";;;
